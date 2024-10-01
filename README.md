@@ -1,3 +1,3 @@
 # CSDS
 Computer Science Dating Sim
-https://prod.liveshare.vsengsaas.visualstudio.com/join?68F4FFF69BB41F800A8E754246FDB141E07D
+https://prod.liveshare.vsengsaas.visualstudio.com/join?5F66C04CCCB34540AEB99B3A57CCB1BDD46D
